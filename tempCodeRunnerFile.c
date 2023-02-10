@@ -1,0 +1,1 @@
+*sPtr = ( *sPtr )->nextPtr;
